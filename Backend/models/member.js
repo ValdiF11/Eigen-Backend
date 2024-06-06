@@ -61,6 +61,10 @@ module.exports = (sequelize, DataTypes) => {
         defaultValue: "false",
       },
       penaltyDate: DataTypes.DATE,
+      borrowedCount: {
+        type: DataTypes.INTEGER,
+        defaultValue: 0,
+      },
     },
     {
       sequelize,
