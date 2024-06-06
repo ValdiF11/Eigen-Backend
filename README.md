@@ -84,14 +84,14 @@
 ## Requirements
 
 - [x] it should be use any framework, but prefered [NestJS](https://nestjs.com/) Framework Or [ExpressJS](https://expressjs.com/)
-- [ ] it should be use Swagger as API Documentation
+- [x] it should be use Swagger as API Documentation
 - [x] it should be use Database (SQL/NoSQL)
 - [x] it should be open sourced on your github repo
 
 ## Extras
 
 - [x] Implement [DDD Pattern](<[https://khalilstemmler.com/articles/categories/domain-driven-design/](https://khalilstemmler.com/articles/categories/domain-driven-design/)>)
-- [ ] Implement Unit Testing
+- [x] Implement Unit Testing
 
 ## Notes
 
